@@ -1,0 +1,57 @@
+h1 {
+	front-size: 50px;
+	font-weight: normal;
+	text-transform: uppercase;
+	font-family: Times New Roman;
+}
+
+h2 {
+	front-size: 50px;
+	font-weight: normal;
+	text-transform: uppercase;
+	font-family: Times New Roman;
+}
+
+h3 {
+	front-size: 50px;
+	font-weight: normal;
+	text-transform: uppercase;
+	font-family: Times New Roman;
+}
+
+span {
+	color: rgb(250, 0, 0);
+	font-weight: normal;
+	text-transform: lowercase;
+}
+
+div {
+	front-size: 30px;
+	text-align: center;
+	text-indent: 20 px;
+
+	word-spacing: 10 px;
+	letter-spacing: 2px;
+	line-height: 40 px;
+
+	border: 5px solid hotpink;
+	background: blue;
+	
+	width: 100%;
+	height: 200px;
+
+	margin: 40px auto 40px auto;
+	padding: 20px; 
+}
+
+.first-text {
+	background: red;
+}
+
+.second-text {
+	background: green;
+}
+
+.third-text {
+	background: orange;
+}
