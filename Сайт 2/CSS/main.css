@@ -35,13 +35,15 @@ div {
 	line-height: 40 px;
 
 	border: 5px solid hotpink;
-	background: blue;
+	background: rgba(245, 179, 66, 0.5);
 	
 	width: 100%;
-	height: 200px;
+	height: 100%;
 
-	margin: 40px auto 40px auto;
+	margin: 10px;
 	padding: 20px; 
+
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
 .first-text {
@@ -54,4 +56,9 @@ div {
 
 .third-text {
 	background: orange;
+}
+
+body, html {
+	margin: 0;
+	padding: 0;	
 }
